@@ -40,45 +40,48 @@ A simple program for converting temperatures between Fahrenheit and Celsius.
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/meierrene/c-programming-exercises.git
+   git clone https://github.com/meierrene/C-programming-exercises.git
    ```
-
-   Navigate to the Project Directory:
-  ```bash
-cd c-programming-exercises
-  ```
-Compile the Programs:
-For the Decimal to Degrees Converter:
-  ```bash
-gcc decimal_to_degrees_converter.c -o degrees_converter
-  ```
-For the Temperature Converter:
-  ```bash
-gcc temperature_converter.c -o temp_converter
-  ```
-Run the Compiled Executables:
-Decimal to Degrees Converter:
-  ```bash
-./degrees_converter
-  ```
-Temperature Converter:
-  ```bash
-./temp_converter
-  ```
-Why These Projects?
+2. **Navigate to the Project Directory**:
+   ```bash
+   cd c-programming-exercises
+   ```
+3. Compile the Programs:
+   - For the Decimal to Degrees Converter:
+     ```bash
+      gcc decimal_to_degrees_converter.c -o degrees_converter
+     ```
+   - For the Temperature Converter:
+     ```bash
+      gcc temperature_converter.c -o temp_converter
+     ```
+4. **Run the Compiled Executables**:
+   - Decimal to Degrees Converter:
+     ```bash
+      ./degrees_converter
+     ```
+   - Temperature Converter:
+     ```bash
+      ./temp_converter
+     ```
+---
+     
+## Why These Projects?
 These exercises are a "resume" of my early exploration into programming during my Mechanical Engineering course. They highlight:
 
-Applying mathematical formulas programmatically.
-Creating interactive user experiences in C.
-Building problem-solving skills that would later influence my development journey.
-Future Enhancements
+- Applying mathematical formulas programmatically.
+- Creating interactive user experiences in C.
+- Building problem-solving skills that would later influence my development journey.
+
+---
+
+## Future Enhancements
 While these projects are basic, they could be expanded with:
+- Input validation to handle errors gracefully.
+- Extended functionality (e.g., additional conversion formats, more temperature units).
+- Improved user interface for modern systems.
 
-Input validation to handle errors gracefully.
-Extended functionality (e.g., additional conversion formats, more temperature units).
-Improved user interface for modern systems.
-License
-This repository is licensed under the MIT License.
+---
 
-Acknowledgments
+## Acknowledgments
 These programs mark the beginning of my journey into programming, blending engineering principles with computational logic. They represent not only a technical milestone but also a nostalgic step in my growth as a developer.
