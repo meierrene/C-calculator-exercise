@@ -40,7 +40,7 @@ A simple program for converting temperatures between Fahrenheit and Celsius.
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/meierrene/C-programming-exercises.git
+   git clone https://github.com/meierrene/c-programming-exercises.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
@@ -49,11 +49,11 @@ A simple program for converting temperatures between Fahrenheit and Celsius.
 3. Compile the Programs:
    - For the Decimal to Degrees Converter:
      ```bash
-      gcc decimal_to_degrees_converter.c -o degrees_converter
+      gcc "Decimal to degrees converter_v1.0.c" -o degrees_converter
      ```
    - For the Temperature Converter:
      ```bash
-      gcc temperature_converter.c -o temp_converter
+      gcc "Temperature_converter_v1.0.c" -o temp_converter
      ```
 4. **Run the Compiled Executables**:
    - Decimal to Degrees Converter:
